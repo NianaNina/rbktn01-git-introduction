@@ -7,19 +7,19 @@ From your fork, provide answers to questions below.
 When you have answered all the questions, commit and push to your repository.
 
 1. Who is your favorite super hero?
-
+catwoman
 2. What is one interesting thing about you?
-
+freindly
 3. What animal is your spirit animal?
-
+lion
 4. What is your favorite food?
-
+pasta
 5. What is your favorite beverage?
-
+orange juce
 6. What is your favorite national park or landmark?
-
+carthageland
 7. What is your favorite movie?
-
+Lucie
 ### Advanced Content:
 
 From your fork, make a new branch.
